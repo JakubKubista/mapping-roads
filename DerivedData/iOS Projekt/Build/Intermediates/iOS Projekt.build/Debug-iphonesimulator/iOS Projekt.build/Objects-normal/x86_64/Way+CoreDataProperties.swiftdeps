@@ -1,0 +1,84 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C11iOS_Projekt3Way", ""]
+- ["C11iOS_Projekt3Way", "doprava"]
+- ["C11iOS_Projekt3Way", "nazev"]
+- ["C11iOS_Projekt3Way", "teren"]
+- ["C11iOS_Projekt3Way", "location"]
+provides-dynamic-lookup:
+- "teren"
+- "nazev"
+- "location"
+- "doprava"
+depends-top-level:
+- "String"
+- "NSData"
+- "Way"
+depends-member:
+- ["PSs9AnyObject", "doprava"]
+- ["PSs9AnyObject", "location"]
+- ["PSs9AnyObject", "nazev"]
+- ["PSs9AnyObject", "teren"]
+- ["PSs11CVarArgType", "doprava"]
+- ["PSs11CVarArgType", "location"]
+- ["PSs11CVarArgType", "nazev"]
+- ["PSs11CVarArgType", "teren"]
+- ["PSs23CustomStringConvertible", "doprava"]
+- ["PSs23CustomStringConvertible", "location"]
+- ["PSs23CustomStringConvertible", "nazev"]
+- ["PSs23CustomStringConvertible", "teren"]
+- ["PSs9Equatable", "doprava"]
+- ["PSs9Equatable", "location"]
+- ["PSs9Equatable", "nazev"]
+- ["PSs9Equatable", "teren"]
+- ["PSs8Hashable", "doprava"]
+- ["PSs8Hashable", "location"]
+- ["PSs8Hashable", "nazev"]
+- ["PSs8Hashable", "teren"]
+- ["CSo15NSManagedObject", "NSData"]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "doprava"]
+- ["CSo15NSManagedObject", "location"]
+- ["CSo15NSManagedObject", "nazev"]
+- ["CSo15NSManagedObject", "teren"]
+- ["CSo8NSObject", "NSData"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "doprava"]
+- ["CSo8NSObject", "location"]
+- ["CSo8NSObject", "nazev"]
+- ["CSo8NSObject", "teren"]
+- ["PSo16NSObjectProtocol", "doprava"]
+- ["PSo16NSObjectProtocol", "location"]
+- ["PSo16NSObjectProtocol", "nazev"]
+- ["PSo16NSObjectProtocol", "teren"]
+- ["C11iOS_Projekt3Way", "NSData"]
+- ["C11iOS_Projekt3Way", "String"]
+- ["C11iOS_Projekt3Way", "doprava"]
+- ["C11iOS_Projekt3Way", "location"]
+- ["C11iOS_Projekt3Way", "nazev"]
+- ["C11iOS_Projekt3Way", "teren"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C11iOS_Projekt3Way"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "060ffb88d585396f0e280a797ebcf690"

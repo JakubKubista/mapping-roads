@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "4086e2d0bc5acc980fda925d2dc63070"
+build_time: [514656433, 565566000]
+inputs:
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/DetailViewController.swift": [514655116, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/CestyViewController.swift": [514656432, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/Way.swift": [514652364, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/UdajeViewController.swift": [514655894, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/AppDelegate.swift": [513680580, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/Pozice.swift": [513786124, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/Way+CoreDataProperties.swift": [514652946, 0]
+  "/Volumes/KINGSTON/XML/Projekty/iOS Projekt/iOS Projekt/ViewController.swift": [514655862, 0]

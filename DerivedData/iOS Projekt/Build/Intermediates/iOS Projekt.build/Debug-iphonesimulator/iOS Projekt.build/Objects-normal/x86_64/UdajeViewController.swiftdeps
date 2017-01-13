@@ -1,0 +1,294 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SaveWayDelegate"
+- "UdajeViewController"
+provides-nominal:
+- "P11iOS_Projekt15SaveWayDelegate"
+- "C11iOS_Projekt19UdajeViewController"
+provides-member:
+- ["P11iOS_Projekt15SaveWayDelegate", ""]
+- ["C11iOS_Projekt19UdajeViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+- "terenTextField"
+- "vratitZpet"
+- "dopravaTextField"
+- "ulozitUdaje"
+- "nazevTextField"
+depends-top-level:
+- !private "BooleanLiteralType"
+- "String"
+- "UdajeViewController"
+- "SaveWayDelegate"
+- "UITextField"
+- "UIViewController"
+- "AnyObject"
+depends-member:
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- !private ["PSs9AnyObject", "dismissViewControllerAnimated"]
+- ["PSs9AnyObject", "dopravaTextField"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "nazevTextField"]
+- ["PSs9AnyObject", "saveWayDelegate"]
+- ["PSs9AnyObject", "terenTextField"]
+- !private ["PSs9AnyObject", "text"]
+- ["PSs9AnyObject", "ulozitUdaje"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", "vratitZpet"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["PSs11CVarArgType", "dismissViewControllerAnimated"]
+- ["PSs11CVarArgType", "dopravaTextField"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "nazevTextField"]
+- ["PSs11CVarArgType", "saveWayDelegate"]
+- ["PSs11CVarArgType", "terenTextField"]
+- !private ["PSs11CVarArgType", "text"]
+- ["PSs11CVarArgType", "ulozitUdaje"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", "vratitZpet"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["PSs23CustomStringConvertible", "dismissViewControllerAnimated"]
+- ["PSs23CustomStringConvertible", "dopravaTextField"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "nazevTextField"]
+- ["PSs23CustomStringConvertible", "saveWayDelegate"]
+- ["PSs23CustomStringConvertible", "terenTextField"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- ["PSs23CustomStringConvertible", "ulozitUdaje"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", "vratitZpet"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- !private ["PSs9Equatable", "dismissViewControllerAnimated"]
+- ["PSs9Equatable", "dopravaTextField"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "nazevTextField"]
+- ["PSs9Equatable", "saveWayDelegate"]
+- ["PSs9Equatable", "terenTextField"]
+- !private ["PSs9Equatable", "text"]
+- ["PSs9Equatable", "ulozitUdaje"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", "vratitZpet"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- !private ["PSs8Hashable", "dismissViewControllerAnimated"]
+- ["PSs8Hashable", "dopravaTextField"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "nazevTextField"]
+- ["PSs8Hashable", "saveWayDelegate"]
+- ["PSs8Hashable", "terenTextField"]
+- !private ["PSs8Hashable", "text"]
+- ["PSs8Hashable", "ulozitUdaje"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", "vratitZpet"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "dismissViewControllerAnimated"]
+- ["PSo8NSCoding", "dopravaTextField"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "nazevTextField"]
+- ["PSo8NSCoding", "saveWayDelegate"]
+- ["PSo8NSCoding", "terenTextField"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "ulozitUdaje"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", "vratitZpet"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "dismissViewControllerAnimated"]
+- ["PSo26NSExtensionRequestHandling", "dopravaTextField"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "nazevTextField"]
+- ["PSo26NSExtensionRequestHandling", "saveWayDelegate"]
+- ["PSo26NSExtensionRequestHandling", "terenTextField"]
+- ["PSo26NSExtensionRequestHandling", "ulozitUdaje"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", "vratitZpet"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "SaveWayDelegate"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "dismissViewControllerAnimated"]
+- ["CSo8NSObject", "dopravaTextField"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "nazevTextField"]
+- ["CSo8NSObject", "saveWayDelegate"]
+- ["CSo8NSObject", "terenTextField"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "ulozitUdaje"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "vratitZpet"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "dismissViewControllerAnimated"]
+- ["PSo16NSObjectProtocol", "dopravaTextField"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "nazevTextField"]
+- ["PSo16NSObjectProtocol", "saveWayDelegate"]
+- ["PSo16NSObjectProtocol", "terenTextField"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "ulozitUdaje"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "vratitZpet"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Sq", "deinit"]
+- ["P11iOS_Projekt15SaveWayDelegate", "String"]
+- ["P11iOS_Projekt15SaveWayDelegate", "saveNewWay"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "dismissViewControllerAnimated"]
+- ["PSo21UIAppearanceContainer", "dopravaTextField"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "nazevTextField"]
+- ["PSo21UIAppearanceContainer", "saveWayDelegate"]
+- ["PSo21UIAppearanceContainer", "terenTextField"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "ulozitUdaje"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "vratitZpet"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "dismissViewControllerAnimated"]
+- ["PSo18UIContentContainer", "dopravaTextField"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "nazevTextField"]
+- ["PSo18UIContentContainer", "saveWayDelegate"]
+- ["PSo18UIContentContainer", "terenTextField"]
+- ["PSo18UIContentContainer", "ulozitUdaje"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", "vratitZpet"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "text"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UIFocusEnvironment", "dopravaTextField"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "nazevTextField"]
+- ["PSo18UIFocusEnvironment", "saveWayDelegate"]
+- ["PSo18UIFocusEnvironment", "terenTextField"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "ulozitUdaje"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", "vratitZpet"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo10UIKeyInput", "text"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "SaveWayDelegate"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "dismissViewControllerAnimated"]
+- ["CSo11UIResponder", "dopravaTextField"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "nazevTextField"]
+- ["CSo11UIResponder", "saveWayDelegate"]
+- ["CSo11UIResponder", "terenTextField"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "ulozitUdaje"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "vratitZpet"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "dismissViewControllerAnimated"]
+- ["PSo16UIStateRestoring", "dopravaTextField"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "nazevTextField"]
+- ["PSo16UIStateRestoring", "saveWayDelegate"]
+- ["PSo16UIStateRestoring", "terenTextField"]
+- ["PSo16UIStateRestoring", "ulozitUdaje"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "vratitZpet"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "text"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UITraitEnvironment", "dopravaTextField"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "nazevTextField"]
+- ["PSo18UITraitEnvironment", "saveWayDelegate"]
+- ["PSo18UITraitEnvironment", "terenTextField"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "ulozitUdaje"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", "vratitZpet"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "SaveWayDelegate"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- !private ["CSo16UIViewController", "dismissViewControllerAnimated"]
+- ["CSo16UIViewController", "dopravaTextField"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "nazevTextField"]
+- ["CSo16UIViewController", "saveWayDelegate"]
+- ["CSo16UIViewController", "terenTextField"]
+- ["CSo16UIViewController", "ulozitUdaje"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "vratitZpet"]
+- ["CSo16UIViewController", ""]
+- ["C11iOS_Projekt19UdajeViewController", "AnyObject"]
+- ["C11iOS_Projekt19UdajeViewController", "SaveWayDelegate"]
+- ["C11iOS_Projekt19UdajeViewController", "UITextField"]
+- ["C11iOS_Projekt19UdajeViewController", "deinit"]
+- ["C11iOS_Projekt19UdajeViewController", "didReceiveMemoryWarning"]
+- !private ["C11iOS_Projekt19UdajeViewController", "dismissViewControllerAnimated"]
+- ["C11iOS_Projekt19UdajeViewController", "dopravaTextField"]
+- ["C11iOS_Projekt19UdajeViewController", "init"]
+- ["C11iOS_Projekt19UdajeViewController", "nazevTextField"]
+- ["C11iOS_Projekt19UdajeViewController", "saveWayDelegate"]
+- ["C11iOS_Projekt19UdajeViewController", "terenTextField"]
+- ["C11iOS_Projekt19UdajeViewController", "ulozitUdaje"]
+- ["C11iOS_Projekt19UdajeViewController", "viewDidLoad"]
+- ["C11iOS_Projekt19UdajeViewController", "vratitZpet"]
+- !private ["PSs12_Reflectable", "text"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Sq"
+- "P11iOS_Projekt15SaveWayDelegate"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo10UIKeyInput"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C11iOS_Projekt19UdajeViewController"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "d2fa5f0753cd112ae892bf924a2964e2"
